@@ -4,4 +4,4 @@
 2.推流服务器采用nginx-rtmp搭建
 3.ffmpeg + sdl解码(后面考虑换成opengl)
 
-commit1
+commit2
